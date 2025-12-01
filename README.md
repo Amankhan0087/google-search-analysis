@@ -7,7 +7,7 @@ This project combines both search performance (GSC) and search popularity trends
 
 This project uses Google Search Console API and PyTrends to analyze:
 
-✔ Search queries & impressions
+✔ Search queries & impressions   
 ✔ CTR & keyword performance
 ✔ Interest over time (Google Trends)
 ✔ Related queries & rising keywords
